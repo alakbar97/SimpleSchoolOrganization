@@ -1,0 +1,10 @@
+C:\Users\alakbarsa\source\repos\SchoolForm\SchoolForm\bin\Debug\SchoolForm.exe.config
+C:\Users\alakbarsa\source\repos\SchoolForm\SchoolForm\bin\Debug\SchoolForm.exe
+C:\Users\alakbarsa\source\repos\SchoolForm\SchoolForm\bin\Debug\SchoolForm.pdb
+C:\Users\alakbarsa\source\repos\SchoolForm\SchoolForm\obj\Debug\SchoolForm.MainForm.resources
+C:\Users\alakbarsa\source\repos\SchoolForm\SchoolForm\obj\Debug\SchoolForm.Properties.Resources.resources
+C:\Users\alakbarsa\source\repos\SchoolForm\SchoolForm\obj\Debug\SchoolForm.StudentForm.resources
+C:\Users\alakbarsa\source\repos\SchoolForm\SchoolForm\obj\Debug\SchoolForm.Teachers.resources
+C:\Users\alakbarsa\source\repos\SchoolForm\SchoolForm\obj\Debug\SchoolForm.csproj.GenerateResource.cache
+C:\Users\alakbarsa\source\repos\SchoolForm\SchoolForm\obj\Debug\SchoolForm.exe
+C:\Users\alakbarsa\source\repos\SchoolForm\SchoolForm\obj\Debug\SchoolForm.pdb
